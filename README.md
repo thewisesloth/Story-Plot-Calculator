@@ -1,7 +1,11 @@
 # Story-Plot-Calculator
 The Story Plot Calculator is a program that streamlines the process of writing stories by breaking them down into scenes and allowing you to insert premade and/or custom plot points which tell you what needs to happen in each scene. The plot points are based on psychology, established industry standards, and logical cause and effect relationships. 
 
-In this repository, you'll find a number of documents. Below is a description of each document and an explanation of why it's here:
+I'm putting this information on Github because I want everyone to be able to have access to the highest quality story plotting/writing software possible, and I want this software to be able to be used for different purposes. You can use story plotting logic to write fiction for entertainment, psychological self-help planning, project management, artificial intelligence, and other applications I couldn't dream of. This software belongs in the public domain so it can have the greatest impact on society. 
+
+I don't know how to code at all, and I don't understand Github's functions very well. So I'm totally unqualified to manage the pull requests and all that stuff. If you want to work on this project, I encourage you to download my documents and create your own Github project with it. If you put it on Github to share with the world, I will gladly consult with you and offer any help I can short of coding. 
+
+In this repository, you'll find a number of documents. Below is a description of each document and an explanation of why they're here:
 
 1. The Wise Sloth Plot Calculator Design Manual
 
