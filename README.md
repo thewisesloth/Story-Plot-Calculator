@@ -5,7 +5,7 @@ I'm putting this information on Github because I want everyone to be able to hav
 
 I don't know how to code at all, and I don't understand Github's functions very well. So I'm totally unqualified to manage the pull requests and all that stuff. If you want to work on this project, I encourage you to download my documents and create your own Github project with it. If you put it on Github to share with the world, I will gladly consult with you and offer any help I can short of coding. 
 
-In this repository, you'll find a number of documents. Below is a description of each document and an explanation of why they're here:
+In this repository, you'll find 7 documents. Below is a description of each document and an explanation of why they're here:
 
 1. The Wise Sloth Plot Calculator Design Manual
 
