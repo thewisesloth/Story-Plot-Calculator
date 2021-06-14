@@ -35,4 +35,4 @@ This Excel spreadsheet shows some brief examples of how you can combine plot poi
 
 This Excel spreadsheet is not a part of the plot program. It is a beat-by-beat breakdown of 14 famous movies that is intended to help the viewer visualize movie structure. It also includes a detailed breakdown of the relationships between the characters in those movies. When the plot program is complete, I will use this document to help make templates that include plot points assigned to each scene. 
 
-If you would like me to have more time to work on this project, please consider donating to me at https://ko-fi.com/thewisesloth
+If you would like me to have more time to work on this project, please consider making a donation. https://paypal.me/thewiseslothblog?locale.x=en_US
