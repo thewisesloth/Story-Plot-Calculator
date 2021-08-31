@@ -3,8 +3,6 @@ The Story Plot Calculator is a program that streamlines the process of writing s
 
 I'm putting this information on Github because I want everyone to be able to have access to the highest quality story plotting/writing software possible, and I want this software to be able to be used for different purposes. You can use story plotting logic to write fiction for entertainment, psychological self-help planning, project management, artificial intelligence, and other applications I couldn't dream of. This software belongs in the public domain so it can have the greatest impact on society. 
 
-I don't know how to code at all, and I don't understand Github's functions very well. So I'm totally unqualified to manage the pull requests and all that stuff. If you want to work on this project, I encourage you to download my documents and create your own Github project with it. If you put it on Github to share with the world, I will gladly consult with you and offer any help I can short of coding. Of course, if you want to make your own version and sell it for a profit, you have the legal right to do so without giving me any compensation. The only catch is, you can’t sue anyone else for copyright infringement if they make a similar program using the intellectual property that I’ve released to the public domain. 
-
 In this repository, you'll find 7 documents. Below is a description of each document and an explanation of why they're here:
 
 1. The Wise Sloth Plot Calculator Design Manual
